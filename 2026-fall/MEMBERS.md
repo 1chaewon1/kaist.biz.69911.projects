@@ -7,73 +7,73 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 ## Team 1
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 2
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 3
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 4
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 5
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 6
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 7
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 8
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 9
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 10
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 11
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 12
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 13
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ## Team 14
 
-| Name | Personal page |
-|------|---------------|
+| Personal page |
+|---------------|
 
 ---
 
@@ -82,8 +82,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 You add your own row with a pull request: you propose a change, and the course staff merges it.
 
 This repository is public.
-Write your name the way you want the public to see it.
-Your GitHub username alone is enough.
+Your row shows only the address of your personal page.
 
 ### In the browser
 
@@ -91,7 +90,7 @@ Your GitHub username alone is enough.
 2. GitHub says that you need a fork to propose changes.
    Select "Fork this repository".
 3. Find the section of your team and add one row below the last line of its table.
-   Copy the row format below and replace the name and the address.
+   Copy the row format below and replace `your-username` in both places.
 4. Select "Commit changes…", write a short message such as `Add your-username to Team 3`, and select "Propose changes".
 5. Select "Create pull request" on each of the next two screens.
 6. The course staff reviews and merges the pull request.
@@ -100,14 +99,14 @@ Your GitHub username alone is enough.
 Row format:
 
 ```
-| Your Name | [your-username.github.io](https://your-username.github.io) |
+| [your-username.github.io](https://your-username.github.io) |
 ```
 
 ### With your coding assistant
 
-Paste this prompt into your coding assistant (Claude Code, for example) and fill in the three values:
+Paste this prompt into your coding assistant (Claude Code, for example) and fill in the two values:
 
-> "Fork https://github.com/yijisoo/kaist.biz.69911.projects and add one row for me to 2026-fall/MEMBERS.md, in the Team ___ table. Name: ___. Personal page: https://___.github.io. Change only that one row, then open a pull request to the original repository. I am new to git, so explain each step before you run it."
+> "Fork https://github.com/yijisoo/kaist.biz.69911.projects and add one row for me to 2026-fall/MEMBERS.md, in the Team ___ table. Personal page: https://___.github.io. Change only that one row, then open a pull request to the original repository. I am new to git, so explain each step before you run it."
 
 ### Rules
 
