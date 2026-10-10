@@ -99,7 +99,7 @@ Your row shows only the address of your personal page.
 Row format:
 
 ```
-| [your-username.github.io](https://your-username.github.io) |
+| your name | [your-username.github.io](https://your-username.github.io) |
 ```
 
 ### With your coding assistant
