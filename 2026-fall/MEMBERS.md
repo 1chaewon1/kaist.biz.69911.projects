@@ -19,6 +19,8 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Personal page |
 |---------------|
+| [zzangparty-blip.github.io](https://zzangparty-blip.github.io) |
+
 
 ## Team 4
 
