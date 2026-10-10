@@ -7,73 +7,73 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 ## Team 1
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 2
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 3
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 4
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 5
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 6
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 7
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 8
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 9
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 10
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 11
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 12
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 13
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 14
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ---
 
