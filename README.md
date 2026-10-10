@@ -17,4 +17,4 @@ Project repositories will be listed here after the Initial Commit (Week 7).
 Fifteen teams, all of which shipped a working product, and most of those products are still online months later.
 The Spring 2026 page lists every repository, with a live link where one exists.
 
-[Browse the Spring 2026 projects](2026-spring/README.md)
+* [Browse the Spring 2026 projects](2026-spring/README.md)
