@@ -9,6 +9,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 지익준 | [ikjun-chi.github.io](https://ikjun-chi.github.io) |
 
 ## Team 2
 
