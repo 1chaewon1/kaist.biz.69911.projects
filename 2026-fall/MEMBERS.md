@@ -119,4 +119,3 @@ Paste this prompt into your coding assistant (Claude Code, for example) and fill
 ---
 
 Maintained by the course staff.
-
