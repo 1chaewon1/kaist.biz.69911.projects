@@ -19,6 +19,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 신희진 | [zzangparty-blip.github.io](https://zzangparty-blip.github.io) |
 
 ## Team 4
 
