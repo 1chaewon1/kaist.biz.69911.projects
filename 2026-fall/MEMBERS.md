@@ -55,7 +55,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 ## Team 9
 
 | Name | Personal page |
-|------|---------------|
+| 양대성 | [equipment0226.github.io](https://equipment0226.github.io) |
 
 ## Team 10
 
