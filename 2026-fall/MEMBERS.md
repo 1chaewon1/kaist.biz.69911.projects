@@ -61,6 +61,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 김영균 | [yeongkyunkr-dot.github.io](https://yeongkyunkr-dot.github.io) |
 
 ## Team 11
 
