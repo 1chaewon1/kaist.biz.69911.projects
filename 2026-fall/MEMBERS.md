@@ -24,6 +24,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 양진석 | [wlstjr5817-cyber.github.io](https://wlstjr5817-cyber.github.io) |
 
 ## Team 5
 
@@ -118,3 +119,4 @@ Paste this prompt into your coding assistant (Claude Code, for example) and fill
 ---
 
 Maintained by the course staff.
+
