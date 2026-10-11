@@ -9,11 +9,13 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 지익준 | [ikjun-chi.github.io](https://ikjun-chi.github.io) |
 
 ## Team 2
 
 | Name | Personal page |
 |------|---------------|
+| 박혜민 | [lemonbuilder.github.io](https://lemonbuilder.github.io) |
 
 ## Team 3
 
@@ -25,6 +27,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 김소라 | [https://shellkim.github.io/](https://shellkim.github.io/) |
 
 ## Team 5
 
@@ -42,6 +45,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 양진석 | [wlstjr5817-cyber.github.io](https://wlstjr5817-cyber.github.io) |
+| 류대훈 | [daehoon-ryu.github.io](https://daehoon-ryu.github.io) |
 
 ## Team 8
 
@@ -51,7 +55,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 ## Team 9
 
 | Name | Personal page |
-|------|---------------|
+| 양대성 | [equipment0226.github.io](https://equipment0226.github.io) |
 
 ## Team 10
 
