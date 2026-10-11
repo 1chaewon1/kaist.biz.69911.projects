@@ -15,7 +15,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 4 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 5 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
-| 7 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
 | 8 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 9 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 10 | (project name) | (one sentence: who it is for and what it does) | — | — |

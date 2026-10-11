@@ -7,75 +7,76 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 ## Team 1
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 2
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 3
 
-| Personal page |
-|---------------|
-| [zzangparty-blip.github.io](https://zzangparty-blip.github.io) |
-
+| Name | Personal page |
+|------|---------------|
+| 신희진 | [zzangparty-blip.github.io](https://zzangparty-blip.github.io) |
 
 ## Team 4
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 5
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 6
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
 
 ## Team 7
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
+| 양진석 | [wlstjr5817-cyber.github.io](https://wlstjr5817-cyber.github.io) |
 
 ## Team 8
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 9
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 10
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 11
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 12
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 13
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ## Team 14
 
-| Personal page |
-|---------------|
+| Name | Personal page |
+|------|---------------|
 
 ---
 
@@ -101,7 +102,7 @@ Your row shows only the address of your personal page.
 Row format:
 
 ```
-| [your-username.github.io](https://your-username.github.io) |
+| your name | [your-username.github.io](https://your-username.github.io) |
 ```
 
 ### With your coding assistant
