@@ -17,7 +17,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
 | 8 | (project name) | (one sentence: who it is for and what it does) | — | — |
-| 9 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
 | 10 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 11 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 12 | (project name) | (one sentence: who it is for and what it does) | — | — |
