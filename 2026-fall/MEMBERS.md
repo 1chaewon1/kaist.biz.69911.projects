@@ -34,6 +34,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
 
 ## Team 7
 
