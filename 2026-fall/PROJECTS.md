@@ -10,7 +10,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | # | Project | Description | Live | Repositories |
 |---|---------|-------------|------|--------------|
 | 1 | (project name) | (one sentence: who it is for and what it does) | — | — |
-| 2 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 2 | 진짜대화 | AI가 인간을 대신하는 시대, 소외감을 느끼는 당신이 오프라인에서 대체할 수 없는 "진짜 대화"를 나눌 수 있게 돕습니다. | — | [lemonbuilder/biz.69911_team02](https://github.com/lemonbuilder/biz.69911_team02) |
 | 3 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 4 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 5 | (project name) | (one sentence: who it is for and what it does) | — | — |
