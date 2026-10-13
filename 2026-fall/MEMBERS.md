@@ -85,8 +85,8 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 장현아 | [cchang-01.github.io](https://cchang-01.github.io) |
+| 이서윤 | [seo-yoonlee.github.io](https://seo-yoonlee.github.io) |
 
----
 
 ## How to add your row
 
