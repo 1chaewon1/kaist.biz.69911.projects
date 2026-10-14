@@ -16,6 +16,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 박혜민 | [lemonbuilder.github.io](https://lemonbuilder.github.io) |
+| 정직한 | [z-khan-jung.github.io](https://z-khan-jung.github.io) |
 
 ## Team 3
 
