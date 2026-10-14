@@ -70,6 +70,8 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+|박성규|[https://mekhander.github.io/](https://mekhander.github.io/)|
+
 
 ## Team 12
 
