@@ -28,6 +28,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 김소라 | [https://shellkim.github.io/](https://shellkim.github.io/) |
+| 이다솜 | [https://somleeplus.github.io/](https://somleeplus.github.io/) |
 
 ## Team 5
 
