@@ -12,7 +12,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 1 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 2 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 3 | (project name) | (one sentence: who it is for and what it does) | — | — |
-| 4 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 4 | MOA | 피부/미용 시술 이력을 관리하고, 개인에게 맞는 다음 시술을 추천받을 수 있도록 돕는 AI 기반 뷰티 관리 서비스 | — | [shellkim/kaist-team04-project](https://github.com/shellkim/kaist-team04-project) |
 | 5 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
