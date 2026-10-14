@@ -83,6 +83,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 김이서 | [yiseo-kim.github.io](https://yiseo-kim.github.io) |
+| 홍하경 | [hakyung-hong.github.io](https://hakyung-hong.github.io) |
 
 ## Team 14
 
