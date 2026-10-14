@@ -77,6 +77,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 이동영 | [dylee27.github.io](https://dylee27.github.io) |
+| 정상섭 | [seobprise.github.io](https://seobprise.github.io) |
 
 ## Team 13
 
