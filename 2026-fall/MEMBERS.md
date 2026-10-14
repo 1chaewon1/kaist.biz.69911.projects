@@ -58,22 +58,25 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 양대성 | [equipment0226.github.io](https://equipment0226.github.io) |
+| 배지열 | [jiyeolbae.github.io](https://jiyeolbae.github.io) |
 
 ## Team 10
 
 | Name | Personal page |
 |------|---------------|
+| 김영균 | [yeongkyunkr-dot.github.io](https://yeongkyunkr-dot.github.io) |
 
 ## Team 11
 
 | Name | Personal page |
 |------|---------------|
-| 박성규 | [mekhander.github.io](https://mekhander.github.io) |
+| 박성규 | [https://mekhander.github.io/](https://mekhander.github.io/) |
 
 ## Team 12
 
 | Name | Personal page |
 |------|---------------|
+| 이동영 | [dylee27.github.io](https://dylee27.github.io) |
 
 ## Team 13
 
@@ -86,6 +89,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 장현아 | [cchang-01.github.io](https://cchang-01.github.io) |
+| 백승윤 | [shaneknowsy.github.io](https://shaneknowsy.github.io) |
 
 ---
 
