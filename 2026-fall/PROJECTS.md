@@ -19,7 +19,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 8 | 득근음료 · 청담음료 (가제) | 웰니스 유저와 헬창 유저가 제로·고단백 음료를 성분 기준으로 걸러서 비교하도록 돕는 웹 서비스입니다. | — | [donggyunlim0525-netizen/kaist-team08-project](https://github.com/donggyunlim0525-netizen/kaist-team08-project) |
 | 9 | Firm Engine | 개인회생 사건을 담당하는 로펌 근무자들을 위한 AI-Automation 서비스입니다. | — | [firmengine/firmengine](https://github.com/firmengine/firmengine) |
 | 10 | 복지용구 세컨드 오피니언 (주제 탐색 중) | 장기요양 등급을 막 받은 가족 보호자가 복지용구사업소의 제안을 판매 이해관계 없이 검토받도록 돕는 AI 서비스를 기획합니다. | — | [4kmba/ltc-caregivers](https://github.com/4kmba/ltc-caregivers) |
-| 11 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 11 | Docdall | 책을 쓰고 싶지만 막막한 일반인이 주제 선정부터 집필, 탈고까지 AI의 피드백과 함께 스스로 완주하도록 돕는 서비스 | — | [mekhander/project-docdall](https://github.com/mekhander/project-docdall) |
 | 12 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 13 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 14 | (project name) | (one sentence: who it is for and what it does) | — | — |
