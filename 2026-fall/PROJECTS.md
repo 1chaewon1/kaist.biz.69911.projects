@@ -13,7 +13,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 2 | 진짜대화 | AI가 인간을 대신하는 시대, 소외감을 느끼는 당신이 오프라인에서 대체할 수 없는 "진짜 대화"를 나눌 수 있게 돕습니다. | — | [lemonbuilder/biz.69911_team02](https://github.com/lemonbuilder/biz.69911_team02) |
 | 3 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 4 | MOA | 피부/미용 시술 이력을 관리하고, 개인에게 맞는 다음 시술을 추천받을 수 있도록 돕는 AI 기반 뷰티 관리 서비스 | — | [shellkim/kaist-team04-project](https://github.com/shellkim/kaist-team04-project) |
-| 5 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 5 | 독서바리 | 초대받은 독서모임 전용공간으로, 각자 책을 읽으며 메모와 생각을 쌓으면 AI가 발제문과 다음 책을 추천한다 | — | [DockseoVARI](https://github.com/jnhabk/Kaist.biz.69911.DockseoVARI) |
 | 6 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 7 | Wine not? (주제 변경 검토 중) | 한국의 와인 초보가 마신 와인을 기록하며 자신의 취향을 알아가고 다음 와인을 고르도록 돕는 서비스를 기획합니다. | — | [wlstjr5817-cyber/kaist-team07-project](https://github.com/wlstjr5817-cyber/kaist-team07-project) |
 | 8 | 득근음료 · 청담음료 (가제) | 웰니스 유저와 헬창 유저가 제로·고단백 음료를 성분 기준으로 걸러서 비교하도록 돕는 웹 서비스입니다. | — | [donggyunlim0525-netizen/kaist-team08-project](https://github.com/donggyunlim0525-netizen/kaist-team08-project) |
