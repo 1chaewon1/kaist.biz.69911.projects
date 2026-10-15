@@ -22,7 +22,7 @@ Team members: see [How to update your row](#how-to-update-your-row) below the ta
 | 11 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 12 | (project name) | (one sentence: who it is for and what it does) | — | — |
 | 13 | (project name) | (one sentence: who it is for and what it does) | — | — |
-| 14 | (project name) | (one sentence: who it is for and what it does) | — | — |
+| 14 | 러닝자세 AI 코칭 | 부상 없이 오래 달리고 싶은 러너가 무릎 센서로 측정한 러닝 자세를 이해하고 다음 러닝에서 바꿀 행동 하나를 고르도록 돕는 AI 코칭 서비스입니다. | — | [yougait/kaist-team14-project](https://github.com/yougait/kaist-team14-project) |
 
 `—` means not available yet.
 
